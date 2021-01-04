@@ -1,0 +1,6 @@
+/*sets background image*/
+body {
+    background: url(../pics/Blue-wall-background.jpg);
+    background-size: 100%;
+    width: auto;
+}
