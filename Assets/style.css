@@ -1,6 +1,6 @@
-/*sets background image*/
+/*Hopefully sets this image as the background fingers crossed*/
 body {
-    background: url(../pics/Blue-wall-background.jpg);
+    background: url(background-image.jpg);
     background-size: 100%;
     width: auto;
 }
