@@ -1,6 +1,6 @@
 /*Hopefully sets this image as the background fingers crossed*/
 body {
-    background: Assets/Background-image.jpg;
+    background: url(../Assets/Background-image.jpg);
     background-size: 100%;
     width: auto;
 }
