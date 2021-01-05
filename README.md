@@ -1,5 +1,5 @@
 # Jonathan-Goldstein.github.io
-Website
+
 For this project I was tasked with making a 3 page website.  The site consists a portfolio page, a index/about me page, and a contact page.
 In the portfolio page I was tasked with creating linked images that would take the user to websites or links of completed coding prokects that I had done.  I had nothing deployable
 so I instead added placeholder images that will be updated as I complete new coding projects.  For the index/about me page I was tasked with creating a bio and adding a headshot,
